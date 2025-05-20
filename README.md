@@ -69,7 +69,7 @@ http://nip-limnis.eyv.sch.gr/autosch/joomla15/index.php/en/kainotoma-programmata
 
 •	Ozobot Bit+ Entry Kit ‎
 
-•	‎ micro:bit v2 starter:kit  
+•	‎micro:bit v2 starter:kit  
 ‎
 •	MI:power board ‎
 
