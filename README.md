@@ -50,7 +50,7 @@ http://nip-limnis.eyv.sch.gr/autosch/joomla15/index.php/en/kainotoma-programmata
 
 •	https://drive.google.com/file/d/1rvvJxz64JbNeOiR2adoLOS-‎T7NFeeIhL/view?usp=sharing
 
-Τα παιδιά με την βοήθεια της εκπαιδευτικού αξιοποίησαν τους μικροελεγκτές Micro:bit ‎και τους αισθητήρες. ‎https://drive.google.com/file/d/1N9EogPvTzSoHmzMe9nnAODti_3Ffunmd/view?usp=sharing
+Τα παιδιά με την βοήθεια των εκπαιδευτικών αξιοποίησαν τους μικροελεγκτές Micro:bit ‎και τους αισθητήρες. ‎https://drive.google.com/file/d/1N9EogPvTzSoHmzMe9nnAODti_3Ffunmd/view?usp=sharing
 
 Ειδικότερα:‎
 
