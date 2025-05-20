@@ -51,6 +51,7 @@ http://nip-limnis.eyv.sch.gr/autosch/joomla15/index.php/en/kainotoma-programmata
 •	https://drive.google.com/file/d/1rvvJxz64JbNeOiR2adoLOS-‎T7NFeeIhL/view?usp=sharing
 
 Τα παιδιά με την βοήθεια της εκπαιδευτικού αξιοποίησαν τους μικροελεγκτές Micro:bit ‎και τους αισθητήρες. ‎https://drive.google.com/file/d/1N9EogPvTzSoHmzMe9nnAODti_3Ffunmd/view?usp=sharing
+
 Ειδικότερα:‎
 
 ‎1.‎	Κήπος πότισμα (εξοικονόμηση νερού): Σε μία συσκευή Micro:bit, όταν πέσουν ‎τα επίπεδα υγρασίας, θα ανάβουν φώτα LED και θα εκπέμπει επίσης έναν ‎παλμικό ήχο υψηλής συχνότητας. Αυτό θα μας ενημερώνει ότι τα φυτά ‎χρειάζονται πότισμα.‎
@@ -61,9 +62,7 @@ http://nip-limnis.eyv.sch.gr/autosch/joomla15/index.php/en/kainotoma-programmata
 
 ‎4.‎	Τουαλέτα: Η τρίτη συσκευή Micro:bit θα λειτουργεί ως jukebox για να κάνει πιο ‎διασκεδαστική και ελκυστική την τουαλέτα.‎
 
-Τέλος, τα παιδιά σχεδίασαν τους δρόμους του πάρκου, πεδίο κίνησης του ozobot ‎ρομπότ, και το προγραμμάτισαν να τους ακολουθήσει και να μας ξεναγήσει.‎
-
-https://youtu.be/h3I4DVHVlag
+Τέλος, τα παιδιά σχεδίασαν τους δρόμους του πάρκου, πεδίο κίνησης του ozobot ‎ρομπότ, και το προγραμμάτισαν να τους ακολουθήσει και να μας ξεναγήσει (https://youtu.be/h3I4DVHVlag)
 
 # Απαιτούμενος εξοπλισμός 
 •	Botley 2.0 Activity Set  ‎
@@ -78,3 +77,12 @@ https://youtu.be/h3I4DVHVlag
  
 # Υλικά για τη μακέτα
 •	Ανακυκλώσιμα και «άχρηστα» υλικά για την κατασκευή των σταθμών
+
+# Διάδοση/Διαμοιρασμός
+Η διάδοση του έργου μας έγινε μέσω της επίσημης ιστοσελίδας του σχολείου μας.
+
+‎‎Κοινοποιήθηκε στους γονείς των μαθητών/τριων και στα μέσα κοινωνικής ‎δικτύωσης ‎‎(fb) του σχολείου και των εκπαιδευτικών.‎
+
+http://nip-limnis.eyv.sch.gr/autosch/joomla15/index.php/en/vraveia-diakriseis/rompotiki-‎eellak/861-oikologiko-parko-diagonismos-ekpaideftikis-rompotikis-anoixton-texnologion-‎eellak-2025‎
+
+https://www.facebook.com/nipiagvgeio.limnis
